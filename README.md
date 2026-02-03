@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://topics-series-mathematics.github.io/MIT-18.175--Theory-of-Probability">
-    <img src=".github/readme/hero.svg?v=2026-02-03T00:12:56.622216Z" width="100%" alt="Access the course website" />
+  <a href="https://topics-series-mathematics.github.io/MIT-18.175--Theory-of-Probability?utm_source=MIT-18.175--Theory-of-Probability&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T00:46:43.462779Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
